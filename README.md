@@ -9,7 +9,7 @@ control theory and languages.
 - 👨‍💻 Personal website: [acristoffers.me](https://acristoffers.me)
 - 📫 Email: [**acristoffers@gmail.com**](mailto:acristoffers@gmail.com)
 
-<p align="center">
+<p align="center" width="60%">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -34,10 +34,10 @@ control theory and languages.
     <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acristoffers&layout=compact&hide=html" alt="acristoffers" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=acristoffers&show_icons=true" alt="acristoffers" />
-</p>
+<div style="display:flex; flex-flow: column wrap; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acristoffers&layout=compact&hide=html" />
+    <img src="https://github-readme-stats.vercel.app/api?username=acristoffers&show_icons=true" />
+</div>
 
 <p align="center">
     <a href="https://twitter.com/acristoffers" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="acristoffers" height="30" width="30" /></a>
