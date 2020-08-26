@@ -1,15 +1,19 @@
 <h1 align="center">Álan Crístoffer</h1>
 <h3 align="center">
     A mechatronics engineer getting a master's degree in electrical engineering.
+    (Control Theory)
 </h3>
 
-I'm a just-graduated mechatronics engineer interested in computer programming,
-control theory and languages.
+Visit my [website](https://acristoffers.me) for more information, more social
+media, brief descriptions of my most important projects, academic publications
+and résumé.
 
-- 👨‍💻 Personal website: [acristoffers.me](https://acristoffers.me)
-- 📫 Email: [**acristoffers@gmail.com**](mailto:acristoffers@gmail.com)
+As I'm currently working on my master's degree, my time is basically dedicated
+to that. I'm studying the use of a controller's region of attraction to
+accelerate the global convergence of restricted switched systems using command
+governors.
 
-<p align="center" width="60%">
+<p align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -34,10 +38,10 @@ control theory and languages.
     <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </p>
 
-<div style="display:flex; flex-flow: column wrap; align-items: center;">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acristoffers&layout=compact&hide=html" />
     <img src="https://github-readme-stats.vercel.app/api?username=acristoffers&show_icons=true" />
-</div>
+</p>
 
 <p align="center">
     <a href="https://twitter.com/acristoffers" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="acristoffers" height="30" width="30" /></a>
