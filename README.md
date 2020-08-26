@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Álan</h1>
-<h3 align="center">A mechatronics engineer getting a master's degree in electrical engineering.</h3>
+<h1 align="center">Álan Crístoffer</h1>
+<h3 align="center">
+    A mechatronics engineer getting a master's degree in electrical engineering.
+</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/acristoffers](https://github.com/acristoffers) and I have a personal website at [acristoffers.me](https://acristoffers.me)
+I'm a just-graduated mechatronics engineer interested in computer programming,
+control theory and languages.
 
-- 📫 How to reach me [**acristoffers@gmail.com**](mailto:acristoffers@gmail.com)
+- 👨‍💻 Personal website: [acristoffers.me](https://acristoffers.me)
+- 📫 Email: [**acristoffers@gmail.com**](mailto:acristoffers@gmail.com)
 
-<p align="left">
+<p align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -32,9 +36,6 @@
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acristoffers&layout=compact&hide=html" alt="acristoffers" />
-</p>
-
-<p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=acristoffers&show_icons=true" alt="acristoffers" />
 </p>
 
