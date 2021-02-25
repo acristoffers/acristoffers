@@ -1,6 +1,6 @@
 <h1 align="center">Álan Crístoffer</h1>
 <h3 align="center">
-    A mechatronics engineer getting a master's degree in electrical engineering.
+    A mechatronics engineer getting a PhD's degree in electrical engineering.
     (Control Theory)
 </h3>
 
@@ -8,10 +8,8 @@ Visit my [website](https://acristoffers.me) for more information, more social
 media, brief descriptions of my most important projects, academic publications
 and résumé.
 
-As I'm currently working on my master's degree, my time is basically dedicated
-to that. I'm studying the use of a controller's region of attraction to
-accelerate the global convergence of restricted switched systems using command
-governors.
+As I'm currently working on my PhD's degree, my time is basically dedicated
+to that. I'm researching cyber-attack identification and mitigation in fleets of robots.
 
 <p align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
