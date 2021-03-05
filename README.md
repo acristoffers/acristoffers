@@ -1,7 +1,6 @@
 <h1 align="center">Álan Crístoffer</h1>
 <h3 align="center">
-    A mechatronics engineer getting a PhD's degree in electrical engineering.
-    (Control Theory)
+    A mechatronics engineer getting a PhD's degree in automation and signal processing.
 </h3>
 
 Visit my [website](https://acristoffers.me) for more information, more social
