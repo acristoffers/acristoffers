@@ -17,8 +17,8 @@ to that. I'm researching cyber-attack identification and mitigation in fleets of
 </p>
 
 <p align="center" style="background-color: white;">
-    <a href="https://twitter.com/acristoffers" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="acristoffers" height="30" width="30" /></a>
-    <a href="https://linkedin.com/in/acristoffers" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="acristoffers" height="30" width="30" /></a>
-    <a href="https://fb.com/acristoffers" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="acristoffers" height="30" width="30" /></a>
-    <a href="https://instagram.com/acristoffers" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="acristoffers" height="30" width="30" /></a>
+    <a href="https://twitter.com/acristoffers" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="acristoffers" height="30" width="30" style="background-color: white;"/></a>
+    <a href="https://linkedin.com/in/acristoffers" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="acristoffers" height="30" width="30" style="background-color: white;"/></a>
+    <a href="https://fb.com/acristoffers" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="acristoffers" height="30" width="30" style="background-color: white;"/></a>
+    <a href="https://instagram.com/acristoffers" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="acristoffers" height="30" width="30" style="background-color: white;"/></a>
 </p>
