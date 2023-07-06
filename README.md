@@ -9,7 +9,7 @@ media, brief descriptions of my most important projects, academic publications
 and résumé.
 
 As I'm currently working on my PhD's degree, my time is basically dedicated
-to that. I'm researching cyber-attack identification and mitigation in fleets of robots.
+to that. I'm researching attack in cyber-physical systems.
 
 <p align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=acristoffers&layout=compact&hide=html" />
