@@ -12,6 +12,6 @@ As I'm currently working on my PhD's degree, my time is basically dedicated
 to that. I'm researching attack in cyber-physical systems.
 
 <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=acristoffers&layout=compact&hide=html" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=acristoffers&show_icons=true" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=acristoffers&layout=compact&hide=html&show_icons=true&theme=dark&include_all_commits=true" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=acristoffers&show_icons=true&theme=dark" />
 </p>
