@@ -1,7 +1,7 @@
 <h1 align="center">Álan Crístoffer e Sousa</h1>
 
 <h3 align="center">
-    A mechatronics engineer developing autonomous tractors at [Vitibot](https://vitibot.fr)
+    A Mechatronics engineer developing autonomous tractors at <a href="https://vitibot.fr">Vitibot</a>
 </h3>
 
 Visit my [website](https://acristoffers.me) for more information, more social
