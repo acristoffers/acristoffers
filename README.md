@@ -9,6 +9,6 @@ media, brief descriptions of my most important projects, academic publications
 and résumé.
 
 <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=acristoffers&layout=compact&hide=html&show_icons=true&theme=dark&include_all_commits=true" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=acristoffers&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=acristoffers&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acristoffers&theme=dracula&show_icons=true&hide_border=false&layout=compact" />
 </p>
