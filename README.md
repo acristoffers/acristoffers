@@ -10,5 +10,4 @@ and résumé.
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=acristoffers&theme=catppuccin_mocha&show_icons=true&hide_border=false&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acristoffers&theme=catppuccin_mocha&show_icons=true&hide_border=false&layout=compact&hide=JavaScript" />
 </p>
